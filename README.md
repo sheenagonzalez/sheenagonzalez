@@ -1,9 +1,9 @@
 ## Hi, I'm Sheena 🌻
 
-Former Frontend Engineer & UI/UX Designer. Berkeley alumni c/o 2020 with a B.A in Cognitive Science & minor in Computer Science.
-With my mixed background in software engineering, psychology, and graphic design, I like to bridge the gap between aesthetics and functionality.
+Frontend Engineer & UI/UX Designer.
+Berkeley alumni c/o 2020 with a B.A in Cognitive Science & minor in Computer Science.
 
-Thank you for taking the time to view my page!
+With my background in software engineering, psychology, and graphic design, I like to bridge the gap between aesthetics and functionality. Thank you for taking the time to view my page!
 
 ## 🛠️ Skills
 
